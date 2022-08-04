@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SraOuTv4IqXhvT43dBlMGriXZjlA8nsbLR3W5vbgB2bH6E+31hBJSeoxqlTwTF/K98qa7nLzJ5345Grnf/jsXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ismai\\source\\repos\\webAPI\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ismai\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ismai\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ismai\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
